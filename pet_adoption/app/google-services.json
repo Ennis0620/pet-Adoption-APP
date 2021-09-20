@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "222438803538",
+    "firebase_url": "https://pet-adoption-4783a-default-rtdb.firebaseio.com",
+    "project_id": "pet-adoption-4783a",
+    "storage_bucket": "pet-adoption-4783a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222438803538:android:696262338239676c33f78b",
+        "android_client_info": {
+          "package_name": "com.example.pet_api_9"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222438803538-k5c6omk2ljvr6vkc0ghqpnq0p4ar5c4u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBC5ss__4iGRMrt_70rZwPd68uz6P4WTOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "222438803538-k5c6omk2ljvr6vkc0ghqpnq0p4ar5c4u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
